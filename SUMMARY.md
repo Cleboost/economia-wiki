@@ -22,8 +22,8 @@
 
 ## Commande autres
 
-* [Hourly](commande-autres/hourly.md)
-* [Daily](commande-autres/daily.md)
+* [Hourly](autres/hourly.md)
+* [Daily](autres/daily.md)
 
 ## The End
 
