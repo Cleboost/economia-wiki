@@ -1,5 +1,3 @@
-# Bienvenue
-
-Bonjour jeune joueurs !
+# 🪧 Planches
 
 En cours de rédaction. :hourglass:&#x20;

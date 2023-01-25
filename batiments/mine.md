@@ -1,5 +1,3 @@
-# Bienvenue
-
-Bonjour jeune joueurs !
+# Mine
 
 En cours de rédaction. :hourglass:&#x20;
