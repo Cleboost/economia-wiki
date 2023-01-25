@@ -1,0 +1,3 @@
+# Api
+
+Une api est en cours de développement... Elle pourrait par exemple permettre a d'autre bot ou site d'avoir accès aux données de Economia en lecture seul comme par exemple voir l'argent sur le compte, les médailles...

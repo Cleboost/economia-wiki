@@ -20,7 +20,12 @@
 * [Fourneaux](batiments/fourneaux.md)
 * [Mine](batiments/mine.md)
 
-## Autres
+## Commande autres
 
-* [Hourly](autres/hourly.md)
-* [Daily](autres/daily.md)
+* [Hourly](commande-autres/hourly.md)
+* [Daily](commande-autres/daily.md)
+
+## The End
+
+* [Api](the-end/api.md)
+* [Crédits](the-end/credits.md)
