@@ -1,5 +1,5 @@
 # Bienvenue
 
-Bonjour jeune joueurs !
+Bonjour jeunes joueurs !
 
 En cours de rédaction. :hourglass:&#x20;
