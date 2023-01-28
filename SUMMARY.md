@@ -10,7 +10,7 @@
 
 * [🪵 Bois](ressources/bois.md)
 * [🪧 Planches](ressources/planches.md)
-* [💎 Pierre](ressources/pierre.md)
+* [Pierre](ressources/pierre.md)
 
 ## Batiments
 
